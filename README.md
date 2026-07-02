@@ -1,4 +1,4 @@
-#### Employee Management System using MySQL and PL/SQL (Data Modeling)
+#### Employee Management System using MySQL and PL/SQL (Data Modeling) 
 
 Refer to <strong>"Project.sql"</strong> for complete code. </br>
 A database design to store biographical and organizational information of employees in order to keep track of their 
